@@ -5,7 +5,8 @@
   "main": "lib/main.js",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@types/q": "^1.5.2"
+    "@types/q": "^1.5.2",
+    "azure-devops-node-api": "^9.0.1"
   },
   "devDependencies": {
     "@types/node": "^12.12.6",
